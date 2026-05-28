@@ -1,12 +1,12 @@
 Component,Quantity,Description,Link,Unit Price (USD),Notes
-ESP32-S3 dev board,1
-TFT ILI9341,1
-KY-040 encoder,1
-MG90S,1
-Piezo buzzer,1
-18650 cell,1
-18650 holder,1
-TP4056 module,1
-MT3608 module,1
-spring,1
-screws/standoffs,Depends
+ESP32-S3 dev board,1,Main microcontroller,https://www.waveshare.com/esp32-s3-dev-kit-n8r8.htm,3,Check and buy
+TFT ILI9341,1,Display for pomodoro timer,https://www.amazon.com/3-2-inch-Touch-Screen-ILI9341-34Pin/dp/B0GVPMR3YB/ref=sr_1_1?sr=8-1,11.50,Check and buy
+KY-040 encoder,1,To change the time and enable the latch,https://www.amazon.com/Cylewet-Encoder-15%C3%9716-5-Arduino-CYT1062/dp/B06XQTHDRR,Check and buy
+MG90S,1,A servo motor to release or set the latch,https://www.amazon.com/50pcs-MG90S-Degrees-servo-Motor/dp/B0GRWKYTHK/ref=sr_1_3?sr=8-3,1.50,Check and buy
+Piezo buzzer,1,To alert the user,https://www.amazon.com/10PCS-Buzzer-PS1240-Passive-12-2MMX3-5MM/dp/B0FL13PFRN/ref=sr_1_2?sr=8-2,6.50,Check and buy
+18650 cell,1, Juice all components,https://www.amazon.com/2600mAh-Lithium-28-86Wh-Rechange-Connectors/dp/B08G8YLTV6/ref=sr_1_3?sr=8-3,50,Check and buy
+18650 holder,1, To hold the juicer,https://www.amazon.com/Battery-Storage-Li-ion-Plastic-Contact/dp/B07YY7TC8T/ref=sr_1_12?sr=8-12,7.5,Check and buy
+TP4056 module,1,Battery charger for the cell,https://www.amazon.com/AITRIP-Lithium-Battery-Charger-Adjustable/dp/B08GWTBD3T/ref=sr_1_7?sr=8-7,8,Check and buy
+MT3608 module,1,Stepup converter for DC-DC,https://www.amazon.com/AITRIP-Lithium-Battery-Charger-Adjustable/dp/B08GWTBD3T/ref=sr_1_7?sr=8-7,8,Check and buy
+spring,1,For the latch,https://www.amazon.com/jycompre-Compression-Assortment-15Different-Stainless/dp/B0D8SRHGKQ/ref=outlet_cn_d_d_sccl_2_4/142-1836194-3938544?psc=1,10,Check and buy
+screws/standoffs,Depends,To tighten the parts,https://www.amazon.com/Stainless-Socket-Assortment-Membrane-200-Pieces/dp/B0C1DVSJ5S/ref=sr_1_5?sr=8-5,11,Check and buy
