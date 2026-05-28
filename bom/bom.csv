@@ -1,1 +1,12 @@
-
+Component,Quantity,Description,Link,Unit Price (USD),Notes
+ESP32-S3 dev board,1
+TFT ILI9341,1
+KY-040 encoder,1
+MG90S,1
+Piezo buzzer,1
+18650 cell,1
+18650 holder,1
+TP4056 module,1
+MT3608 module,1
+spring,1
+screws/standoffs,Depends
