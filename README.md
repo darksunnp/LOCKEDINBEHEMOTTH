@@ -28,7 +28,7 @@ We all have time limiting apps on our phone but we always find a workaround. So 
 - Source: [cad/source/](cad/source/)
 
 ![Internal layout](cad/renders/internal.png)
-![Internal layout](cad/renders/internal2.png)
+![Internal layout](cad/renders/internal3.png)
 
 ## Firmware
 The firmware runs on an ESP32-S3 using TFT_eSPI for the display 
