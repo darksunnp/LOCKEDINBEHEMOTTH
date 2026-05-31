@@ -4,14 +4,11 @@ duration and releases it when the session completes.
 
 ![Assembly render](cad/renders/iso.png)
 
-## What it does
-[2-3 sentences expanding on the tagline]
-
 ## How it works
-[The technical mechanism in 1 paragraph - which actually matches your build]
+It has an ESP32-S3 as a the microcontroller and a KY-040 rotary encoder which is used to set the time and lock the phone by clicking it. It also has a Oled-display to show the time and a buzzer to notify the user. The phone is locked using a servo attached to a vaccum suction cup. 
 
 ## Why I built it
-[The personal section you already have, cleaned up]
+We all have time limiting apps on our phone but we always find a workaround. So i built a physical device that holds the phone physically out of reach so I can get your work done.
 
 ## Usage
 1. Power on the device with the switch on the side
